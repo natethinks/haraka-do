@@ -22,6 +22,7 @@ mkdir haraka
 Create haraka instance in the new haraka directory
 
 `haraka -i haraka` 
+
 Start the service 
 
 `haraka -c haraka`
