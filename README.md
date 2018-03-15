@@ -11,13 +11,17 @@ sudo npm install -g n
 sudo n stable
 ```
 Install haraka
+
 `npm install -g Haraka`
+
 Ensure you're in home directory and make a directory to store haraka files in
 ```
 cd
 mkdir haraka
 ```
 Create haraka instance in the new haraka directory
+
 `haraka -i haraka` 
 Start the service 
+
 `haraka -c haraka`
